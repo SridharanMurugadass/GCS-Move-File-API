@@ -23,5 +23,5 @@
 <p>Response : { "message": "Task successfully Done" }</p>
 <p>&nbsp;</p>
 <p>Author<br />Sridharan Murugadass</p>
-<p>License<br />MIT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>License<br />Open Source&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
