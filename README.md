@@ -1,5 +1,5 @@
 <p># GCS-Move-File-API<br /># GCS-Move-File-API</p>
-<p><br />This source code helps you to migrate the files from one storage bucket to another storage bucket. Either you can move one file or batch files. The API code was written in NodeJS. So please make sure that your system installed with NodeJS (https://nodejs.org/en/)</p>
+<p><br />Currently there are no API's for moving the object from Google Cloud Storage Bucket.Instead Google Provided API's for copy and delete the object functions. However, This source code helps you to migrate the files from one storage bucket to another storage bucket. Either you can move one file or batch files. This API was written in NodeJS with Express Framework. So please make sure that your system installed with NodeJS (https://nodejs.org/en/)</p>
 <p><br /><strong>Please follow the below steps for implementation:</strong></p>
 <p><strong>Step 1:</strong></p>
 <p>git clone https://github.com/SridharanMurugadass/GCS-Move-File-API.git</p>
